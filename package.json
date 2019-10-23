@@ -7,6 +7,9 @@
     "react",
     "react native"
   ],
+  "scripts": {
+    "test": "no tests"
+  },
   "main": "cli.js",
   "license": "MIT",
   "dependencies": {
