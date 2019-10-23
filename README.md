@@ -1,4 +1,4 @@
-# F22 App starter
+# F22 App starter :rocket:
 
 This is a starter cli kit for bootstrapping React and React Native Applications @ F22labs
 
