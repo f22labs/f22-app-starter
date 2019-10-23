@@ -1,6 +1,13 @@
 # F22 App starter :rocket:
 
-This is a starter cli kit for bootstrapping React and React Native Applications @ F22labs
+This is a starter cli kit for bootstrapping React and React Native Applications @F22labs.
+
+For React Native projects, we use this repo
+`https://github.com/f22labs/rn-boilerplate`
+
+React project boilerplate is `WIP`
+
+
 
 ## Installation
 
