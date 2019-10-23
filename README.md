@@ -17,7 +17,7 @@ yarn global add f22-starter
 2. Run command `f22-starter` and follow the instructions.
 
 
-Note: This currently doesn't support Windows machines
+**Note**: This currently doesn't support Windows machines
 
 For windows users, follow this instructions
 
