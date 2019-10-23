@@ -4,7 +4,7 @@ const inquirer = require("inquirer");
 const shell = require("shelljs");
 const chalk = require("chalk");
 
-console.log(chalk.red("Hi, welcome to F22 Labs Starter Kit"));
+console.log(chalk.green("\nHi, welcome to F22 Labs Starter Kit\n"));
 
 function fancyLog(log) {
   console.log("\n===================");
