@@ -2,6 +2,11 @@
   "name": "f22-starter",
   "version": "0.1.0",
   "description": "A cli to start react and react native projects for f22 ",
+  "keywords": [
+    "starter-kit",
+    "react",
+    "react native"
+  ],
   "main": "cli.js",
   "license": "MIT",
   "dependencies": {
